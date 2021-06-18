@@ -1,2 +1,0 @@
-# KByosoku
-Kumamoto KOSEN research 
